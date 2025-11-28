@@ -63,3 +63,5 @@ if st.button("Predict Energy Efficiency"):
 
     st.success(f"🔥 Predicted Heating Load: {heating_load:.3f}")
     st.success(f"❄ Predicted Cooling Load: {cooling_load:.3f}")
+
+#To run programn run this (python -m streamlit run app.py)  in Terminal and make sure streamlit is installed.
