@@ -1,4 +1,4 @@
-# ⚡ Energy Efficiency Prediction App
+# ⚡ Energy Efficiency Prediction App (Supervised Learning)
 
 This project predicts "Heating Load" and "Cooling Load" of buildings based on 8 architectural and design-related features.  
 It uses Machine Learning (Random Forest Regression) and includes a fully working "Streamlit web app" for real-time predictions.
